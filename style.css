@@ -9,7 +9,7 @@
 body {
     font-family: 'Chakra Petch', sans-serif;
     color: var(--cor-principal);
-    background-color: rgb(211, 247, 233);
+    background: linear-gradient(to right, #aef1e6, #dae2f7);
 }
 
 h1, h2, h5 {
